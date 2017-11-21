@@ -16,6 +16,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".ResultActivity"></activity>
+        <!--<activity android:name="com.bess.bmi.ResultActivity"></activity>-->
     </application>
 
 </manifest>
